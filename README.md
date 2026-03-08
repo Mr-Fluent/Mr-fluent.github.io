@@ -174,7 +174,7 @@ Luxury Estates & Exclusive Cars
 <div class="card">
 <img src="https://images.unsplash.com/photo-1499793983690-e29da59ef1c2">
 <div class="card-content">
-<h3>Beach House with Volleyball Court</h3>
+<h3>Beach Resort</h3>
 <p class="price">$3,200,000</p>
 </div>
 </div>
