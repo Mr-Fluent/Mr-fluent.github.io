@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Luxury Estates & Cars</title>
+<title>Luxury Estates & Exclusive Cars</title>
 
 <style>
 
@@ -69,6 +69,12 @@ height:200px;
 object-fit:cover;
 }
 
+.rolls img{
+width:75%;
+margin:auto;
+display:block;
+}
+
 .card-content{
 padding:15px;
 text-align:center;
@@ -101,7 +107,6 @@ Luxury Estates & Exclusive Cars
 <a href="#houses">Luxury Homes</a>
 </nav>
 
-
 <section id="cars">
 
 <h2>Exclusive Cars</h2>
@@ -109,7 +114,7 @@ Luxury Estates & Exclusive Cars
 <div class="grid">
 
 <div class="card">
-<img src="https://images.unsplash.com/photo-1621135802920-133df287f89c">
+<img src="https://images.unsplash.com/photo-1544829099-b9a0c5303bea">
 <div class="card-content">
 <h3>Lamborghini Aventador</h3>
 <p class="price">$500,000</p>
@@ -117,14 +122,22 @@ Luxury Estates & Exclusive Cars
 </div>
 
 <div class="card">
-<img src="https://images.unsplash.com/photo-1592198084033-aade902d1aae">
+<img src="https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a">
+<div class="card-content">
+<h3>Aston Martin</h3>
+<p class="price">$220,000</p>
+</div>
+</div>
+
+<div class="card">
+<img src="https://images.unsplash.com/photo-1592853625601-bb9d23da12fc">
 <div class="card-content">
 <h3>Ferrari</h3>
 <p class="price">$350,000</p>
 </div>
 </div>
 
-<div class="card">
+<div class="card rolls">
 <img src="https://images.unsplash.com/photo-1631295868223-63265b40d9e4">
 <div class="card-content">
 <h3>Rolls Royce</h3>
@@ -132,9 +145,16 @@ Luxury Estates & Exclusive Cars
 </div>
 </div>
 
+<div class="card">
+<img src="https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8">
+<div class="card-content">
+<h3>Mercedes-Benz AMG</h3>
+<p class="price">$180,000</p>
+</div>
+</div>
+
 </div>
 </section>
-
 
 
 <section id="houses">
@@ -146,8 +166,16 @@ Luxury Estates & Exclusive Cars
 <div class="card">
 <img src="https://images.unsplash.com/photo-1501183638710-841dd1904471">
 <div class="card-content">
-<h3>NYC Penthouse</h3>
+<h3>New York City Penthouse</h3>
 <p class="price">$8,500,000</p>
+</div>
+</div>
+
+<div class="card">
+<img src="https://images.unsplash.com/photo-1499793983690-e29da59ef1c2">
+<div class="card-content">
+<h3>Beach House with Volleyball Court</h3>
+<p class="price">$3,200,000</p>
 </div>
 </div>
 
@@ -170,7 +198,6 @@ Luxury Estates & Exclusive Cars
 </div>
 
 </section>
-
 
 <footer>
 © 2026 Luxury Estates & Cars
