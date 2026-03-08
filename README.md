@@ -164,11 +164,9 @@ Luxury Estates & Exclusive Cars
 
 
 <div class="card">
-<img src="https://images.unsplash.com/photo-1505691938895-1758d7feb511" alt="NYC Penthouse interior with balcony view" width="100%">
-<div class="card-content">
+<img src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c" alt="New York Penthouse">
 <h3>New York City Penthouse</h3>
 <p class="price">$8,500,000</p>
-</div>
 </div>
 
 <div class="card">
