@@ -170,7 +170,6 @@ margin-top:40px;
 <p class="price">$420,000</p>
 <button>Buy Now</button>
 </div>
-</div>
 
 </div>
 </section>
