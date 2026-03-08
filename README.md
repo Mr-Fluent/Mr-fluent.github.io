@@ -114,17 +114,9 @@ Luxury Estates & Exclusive Cars
 <div class="grid">
 
 <div class="card">
-<img src="https://images.unsplash.com/photo-1621135802920-133df287f89c">
-<div class="card-content">
-<h3>Lamborghini Aventador</h3>
-<p class="price">$500,000</p>
-</div>
-</div>
-
-<div class="card">
 <img src="https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a">
 <div class="card-content">
-<h3>Aston Martin</h3>
+<h3>Audi</h3>
 <p class="price">$220,000</p>
 </div>
 </div>
