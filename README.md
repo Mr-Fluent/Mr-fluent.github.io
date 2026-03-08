@@ -152,14 +152,6 @@ Luxury Estates & Exclusive Cars
 </div>
 
 <div class="card">
-<img src="https://images.unsplash.com/photo-1505691938895-1758d7feb511">
-<div class="card-content">
-<h3>Beach House with Volleyball Court</h3>
-<p class="price">$3,200,000</p>
-</div>
-</div>
-
-<div class="card">
 <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c">
 <div class="card-content">
 <h3>Modern House with Basketball Court</h3>
