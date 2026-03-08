@@ -129,7 +129,7 @@ footer{
 <div class="card">
 <img src="https://images.unsplash.com/photo-1542362567-b07e54358753">
 <div class="card-content">
-<h3>Rolls Royce Phantom</h3>
+<h3>MacLaren 650s</h3>
 <p class="price">$460,000</p>
 </div>
 </div>
