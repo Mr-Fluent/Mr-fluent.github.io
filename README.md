@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -138,7 +138,7 @@ margin-top:40px;
 <div class="card rolls">
 <img src="https://images.unsplash.com/photo-1631295868223-63265b40d9e4">
 <div class="card-content">
-<h3>Rolls Royce</h3>
+<h3>Rolls Royce Ghost</h3>
 <p class="price">$450,000</p>
 </div>
 </div>
