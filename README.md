@@ -138,7 +138,7 @@ Luxury Estates & Exclusive Cars
 </div>
 
 <div class="card">
-<img src="https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8">
+<img src="https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8" alt="Mercedes Benz AMG" width="100%">
 <div class="card-content">
 <h3>Mercedes-Benz AMG</h3>
 <p class="price">$180,000</p>
