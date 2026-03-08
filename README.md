@@ -138,11 +138,9 @@ Luxury Estates & Exclusive Cars
 </div>
 
 <div class="card">
-<img src="https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8">
-<div class="card-content">
-<h3>Mercedes-Benz AMG</h3>
-<p class="price">$180,000</p>
-</div>
+<img src="https://images.unsplash.com/photo-1626668893632-6f3a4466d22f" alt="Rolls Royce">
+<h3>Rolls Royce</h3>
+<p class="price">$600,000</p>
 </div>
 
 </div>
