@@ -98,14 +98,20 @@ margin-top:40px;
 
 <body>
 
-<header>
-Luxury Estates & Exclusive Cars
-</header>
-
 <nav>
-<a href="#cars">Exclusive Cars</a>
-<a href="#houses">Luxury Homes</a>
+<h1>Elite Estates & Motors</h1>
+
+<ul>
+<li>Home</li>
+<li>Cars</li>
+<li>Real Estate</li>
+<li>Contact</li>
+</ul>
 </nav>
+
+<div class="hero">
+<h2>Luxury Cars & Billionaire Homes</h2>
+</div>
 
 <section id="cars">
 
