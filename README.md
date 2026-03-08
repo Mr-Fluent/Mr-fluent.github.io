@@ -186,11 +186,9 @@ Luxury Estates & Exclusive Cars
 </div>
 
 <div class="card">
-<img src="https://images.unsplash.com/photo-1564013799919-ab600027ffc6">
-<div class="card-content">
-<h3>Modern House with Big Garage</h3>
-<p class="price">$2,800,000</p>
-</div>
+<img src="https://images.unsplash.com/photo-1600607688969-a5bfcd646154" alt="Modern House with Garage">
+<h3>Modern House with Large Garage</h3>
+<p class="price">$2,900,000</p>
 </div>
 
 </div>
