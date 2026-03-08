@@ -117,14 +117,6 @@ Luxury Estates & Exclusive Cars
 </div>
 
 <div class="card">
-<img src="https://images.unsplash.com/photo-1619767886558-efdc259cde1a">
-<div class="card-content">
-<h3>Aston Martin</h3>
-<p class="price">$220,000</p>
-</div>
-</div>
-
-<div class="card">
 <img src="https://images.unsplash.com/photo-1592198084033-aade902d1aae">
 <div class="card-content">
 <h3>Ferrari</h3>
